@@ -12,19 +12,20 @@
 <html>
 <head>
     <title>CRM Customers</title>
-    <link rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/style.css"/>
+    <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/resources/css/style.css"/>
 </head>
 <body>
 
-    <div id="wrapper">
-        <div id="header">
-            <h2>CRM - Customer Relationship Manager</h2>
-        </div>
-    </div>
+    <jsp:include page="header.jsp"/>
 
 
-    <div id="container">
+
+<div id="container">
         <div id="content">
+
+            <input type="button" value="Add Customer" onclick="window.location.href='showFormAdd';return false;" class="add-button"/>
+
+
 
             <table>
                 <tr>

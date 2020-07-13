@@ -1,4 +1,6 @@
-C:\Users\Onur\Development\IdeaProjects\SpringMvcHibernate\src\main\java\com\example\spring\mvc\entity\Customer.java
-C:\Users\Onur\Development\IdeaProjects\SpringMvcHibernate\src\main\java\com\example\spring\mvc\Controller\CustomerController.java
-C:\Users\Onur\Development\IdeaProjects\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAOImpl.java
-C:\Users\Onur\Development\IdeaProjects\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAO.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\controller\CustomerController.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\entity\Customer.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAOImpl.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\service\CustomerServiceImpl.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\service\CustomerService.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAO.java

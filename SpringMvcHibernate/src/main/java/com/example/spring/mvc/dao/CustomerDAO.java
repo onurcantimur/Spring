@@ -9,5 +9,5 @@ public interface CustomerDAO {
     List<Customer> getCustomers();
 
 
-
+    void addCustomer(Customer customer);
 }
