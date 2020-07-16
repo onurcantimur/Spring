@@ -2,5 +2,6 @@ C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\exa
 C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\entity\Customer.java
 C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAOImpl.java
 C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\service\CustomerServiceImpl.java
+C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\aspect\CRMLoggingAspect.java
 C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\service\CustomerService.java
 C:\Users\Onur\Development\github\Spring\SpringMvcHibernate\src\main\java\com\example\spring\mvc\dao\CustomerDAO.java
